@@ -1,0 +1,16 @@
+PODS:
+  - AudioStreamer (1.5.0)
+
+DEPENDENCIES:
+  - AudioStreamer (from `../../`)
+
+EXTERNAL SOURCES:
+  AudioStreamer:
+    :path: "../../"
+
+SPEC CHECKSUMS:
+  AudioStreamer: 2fe449a16e8fc132915dd8a1d89b452acef69b3b
+
+PODFILE CHECKSUM: 966afdf0c6b4e3bf43ade2437ec9d56e6a5ebb28
+
+COCOAPODS: 1.14.3
